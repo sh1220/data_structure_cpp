@@ -1,0 +1,6 @@
+﻿  boj_11660.cpp
+c:\users\goodday1220\source\repos\datastructure\datastructure\boj_11660.cpp(18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\goodday1220\source\repos\datastructure\datastructure\boj_11660.cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\goodday1220\source\repos\datastructure\datastructure\boj_11660.cpp(44): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\goodday1220\source\repos\datastructure\datastructure\boj_11660.cpp(48): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  dataStructure.vcxproj -> C:\Users\goodday1220\source\repos\dataStructure\Debug\dataStructure.exe
